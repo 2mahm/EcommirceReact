@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name": "dress",
+        "price": "1000",
+        "imgU":"https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":2,
+        "name": "shoes",
+        "price": "",
+        "imgU":"https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":3,
+        "name": "shoes",
+        "price": "",
+        "imgU":"https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+        "id":4,
+        "name": "dress",
+        "price": "",
+        "imgU":"../img/dress2.jpeg"
+
+    },
+    {
+        "id":5,
+        "name": "dress",
+        "price": "",
+        "imgU":""
+
+    },
+    {
+        "id":6,
+        "name": "",
+        "price": "",
+        "imgU":""
+
+    },
+    {
+        "id":7,
+        "name": "",
+        "price": "",
+        "imgU":""
+
+    },
+    {
+        "id":8,
+        "name": "",
+        "price": "",
+        "imgU":""
+
+    },
+    {
+        "id":9,
+        "name": "",
+        "price": "",
+        "imgU":""
+
+    },
+    {
+        "id":10,
+        "name": "",
+        "price": "",
+        "imgU":""
+
+    }
+]
